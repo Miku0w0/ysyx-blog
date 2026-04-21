@@ -1,0 +1,31 @@
+#particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+/* 首页文章卡片悬浮特效 */
+.post-entry {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 12px;
+}
+
+/* 鼠标悬停状态 */
+.post-entry:hover {
+    transform: translateY(-3px);
+    /* 向上浮动的距离也稍微调小了一点，更精致 */
+
+    /* 这里的阴影：0px水平偏移, 5px垂直偏移, 15px模糊度, 蓝色透明度0.15 */
+    box-shadow: 0 5px 15px rgba(0, 122, 204, 0.15);
+
+    /* 可选：如果你想让边框也微微发蓝，可以取消下面这行的注释 */
+    /* border: 1px solid rgba(0, 122, 204, 0.3); */
+}
+
+/* 针对深色模式的优化（如果你开启了黑夜模式） */
+.dark .post-entry:hover {
+    box-shadow: 0 5px 15px rgba(0, 122, 204, 0.4);
+}
