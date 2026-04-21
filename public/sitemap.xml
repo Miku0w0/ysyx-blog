@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Miku0w0.github.io/ysyx-blog/categories/</loc>
+    <loc>http://localhost:5431/ysyx-blog/categories/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Miku0w0.github.io/ysyx-blog/</loc>
+    <loc>http://localhost:5431/ysyx-blog/tags/github-pages/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Miku0w0.github.io/ysyx-blog/tags/</loc>
+    <loc>http://localhost:5431/ysyx-blog/tags/hugo/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5431/ysyx-blog/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5431/ysyx-blog/posts/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5431/ysyx-blog/tags/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5431/ysyx-blog/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5431/ysyx-blog/posts/hello/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url>
 </urlset>

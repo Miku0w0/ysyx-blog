@@ -2,10 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on My Blog</title>
-    <link>https://Miku0w0.github.io/ysyx-blog/tags/</link>
+    <link>http://localhost:5431/ysyx-blog/tags/</link>
     <description>Recent content in Tags on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://Miku0w0.github.io/ysyx-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:5431/ysyx-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Pages</title>
+      <link>http://localhost:5431/ysyx-blog/tags/github-pages/</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5431/ysyx-blog/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:5431/ysyx-blog/tags/hugo/</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5431/ysyx-blog/tags/hugo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
