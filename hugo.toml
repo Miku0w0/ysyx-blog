@@ -1,0 +1,5 @@
+baseURL = "https://Miku0w0.github.io/ysyx-blog/"
+languageCode = "en-us"
+title = "My Blog"
+
+theme = "PaperMod"
