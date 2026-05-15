@@ -2,34 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:3500/ysyx-blog/</loc>
-    <lastmod>2026-04-21T14:10:04+08:00</lastmod>
+    <loc>http://localhost:3315/ysyx-blog/</loc>
+    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:3500/ysyx-blog/posts/</loc>
-    <lastmod>2026-04-21T14:10:04+08:00</lastmod>
+    <loc>http://localhost:3315/ysyx-blog/about/</loc>
+    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:3500/ysyx-blog/posts/verilog-tutorial/</loc>
-    <lastmod>2026-04-21T14:10:04+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:3500/ysyx-blog/posts/riscv-note/</loc>
-    <lastmod>2026-04-21T14:10:02+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:3500/ysyx-blog/categories/</loc>
+    <loc>http://localhost:3315/ysyx-blog/categories/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:3500/ysyx-blog/tags/github-pages/</loc>
+    <loc>http://localhost:3315/ysyx-blog/tags/github-pages/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:3500/ysyx-blog/tags/hugo/</loc>
+    <loc>http://localhost:3315/ysyx-blog/tags/hdl/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:3500/ysyx-blog/tags/</loc>
+    <loc>http://localhost:3315/ysyx-blog/tags/hugo/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:3500/ysyx-blog/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://localhost:3315/ysyx-blog/tags/risc-v/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:3500/ysyx-blog/posts/hello/</loc>
+    <loc>http://localhost:3315/ysyx-blog/notes/riscv-note/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/tags/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/tags/verilog/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/notes/verilog-tutorial/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/posts/hello/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/notes/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/posts/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/tags/%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/series/</loc>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/archives/</loc>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/search/</loc>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/life/</loc>
+  </url><url>
+    <loc>http://localhost:3315/ysyx-blog/projects/</loc>
   </url>
 </urlset>

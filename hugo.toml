@@ -1,18 +1,77 @@
 baseURL = "https://Miku0w0.github.io/ysyx-blog/"
-languageCode = "en-us"
-title = "My Blog"
-
+languageCode = "zh-cn"
+title = "ysyx Blog"
 theme = "PaperMod"
 
+# 默认主题（自动跟随系统）
+defaultTheme = "auto"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
 [params]
-  homeInfoParams = { Title = "我的博客", Content = "记录学习、项目和生活" }
+  # 启用搜索功能
+  ShowSearch = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+
+  # Profile 模式配置
+  [params.profileMode]
+    enabled = true
+    title = "ysyx Blog"
+    subtitle = "一生一芯 | 记录学习与成长"
+    imageUrl = "/images/profile.png"
+    imageWidth = 120
+    imageHeight = 120
+
+  # 社交链接
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Miku0w0"
+
+  # 搜索配置
+  [params.fuseOpts]
+    isCaseSensitive = false
+    minMatchCharLength = 2
+    threshold = 0.3
+
+# 菜单配置
+[[menu.main]]
+  identifier = "首页"
+  name = "首页"
+  url = "/"
+  weight = 1
 
 [[menu.main]]
-name = "Posts"
-url = "/posts/"
-weight = 1
+  identifier = "归档"
+  name = "归档"
+  url = "/archives/"
+  weight = 2
 
 [[menu.main]]
-name = "Tags"
-url = "/tags/"
-weight = 2
+  identifier = "分类"
+  name = "分类"
+  url = "/categories/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "标签"
+  name = "标签"
+  url = "/tags/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "搜索"
+  name = "搜索"
+  url = "/search/"
+  weight = 5
+
+[[menu.main]]
+  identifier = "关于"
+  name = "关于"
+  url = "/about/"
+  weight = 6

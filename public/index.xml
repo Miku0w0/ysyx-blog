@@ -1,32 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My Blog</title>
-    <link>http://localhost:3500/ysyx-blog/</link>
-    <description>Recent content on My Blog</description>
+    <title>ysyx Blog</title>
+    <link>http://localhost:3315/ysyx-blog/</link>
+    <description>Recent content on ysyx Blog</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 14:10:04 +0800</lastBuildDate>
-    <atom:link href="http://localhost:3500/ysyx-blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:3315/ysyx-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Verilog Tutorial</title>
-      <link>http://localhost:3500/ysyx-blog/posts/verilog-tutorial/</link>
-      <pubDate>Tue, 21 Apr 2026 14:10:04 +0800</pubDate>
-      <guid>http://localhost:3500/ysyx-blog/posts/verilog-tutorial/</guid>
-      <description></description>
+      <title>关于我</title>
+      <link>http://localhost:3315/ysyx-blog/about/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3315/ysyx-blog/about/</guid>
+      <description>&lt;h2 id=&#34;-关于我&#34;&gt;👋 关于我&lt;/h2&gt;
+&lt;p&gt;我是一名热爱技术的学习者，目前正在参与&lt;strong&gt;一生一芯&lt;/strong&gt;项目。&lt;/p&gt;
+&lt;h3 id=&#34;-关注领域&#34;&gt;🎯 关注领域&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RISC-V 架构&lt;/li&gt;
+&lt;li&gt;Verilog/HDL 硬件设计&lt;/li&gt;
+&lt;li&gt;计算机体系结构&lt;/li&gt;
+&lt;li&gt;软件开发与工程实践&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-博客内容&#34;&gt;📚 博客内容&lt;/h3&gt;
+&lt;p&gt;这里记录我的学习笔记、项目进展和技术心得，希望能对同样在学习路上的你有所帮助。&lt;/p&gt;
+&lt;h3 id=&#34;-联系方式&#34;&gt;🔗 联系方式&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/Miku0w0&#34;&gt;@Miku0w0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;感谢访问我的博客！&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Riscv Note</title>
-      <link>http://localhost:3500/ysyx-blog/posts/riscv-note/</link>
-      <pubDate>Tue, 21 Apr 2026 14:10:02 +0800</pubDate>
-      <guid>http://localhost:3500/ysyx-blog/posts/riscv-note/</guid>
-      <description></description>
+      <title>RISC-V 学习笔记</title>
+      <link>http://localhost:3315/ysyx-blog/notes/riscv-note/</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3315/ysyx-blog/notes/riscv-note/</guid>
+      <description>&lt;p&gt;这里是 RISC-V 学习笔记的内容&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Verilog 入门教程</title>
+      <link>http://localhost:3315/ysyx-blog/notes/verilog-tutorial/</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3315/ysyx-blog/notes/verilog-tutorial/</guid>
+      <description>&lt;p&gt;这里是 Verilog 入门教程的内容&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>我的第一篇博客</title>
-      <link>http://localhost:3500/ysyx-blog/posts/hello/</link>
+      <link>http://localhost:3315/ysyx-blog/posts/hello/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3500/ysyx-blog/posts/hello/</guid>
+      <guid>http://localhost:3315/ysyx-blog/posts/hello/</guid>
       <description>&lt;p&gt;这是我的第一篇 Hugo 博客 🎉&lt;br&gt;
 我已经成功部署 GitHub Pages + Hugo！&lt;/p&gt;</description>
     </item>

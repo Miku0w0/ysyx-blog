@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>GitHub Pages on My Blog</title>
-    <link>http://localhost:3500/ysyx-blog/tags/github-pages/</link>
-    <description>Recent content in GitHub Pages on My Blog</description>
+    <title>GitHub Pages on ysyx Blog</title>
+    <link>http://localhost:3315/ysyx-blog/tags/github-pages/</link>
+    <description>Recent content in GitHub Pages on ysyx Blog</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:3500/ysyx-blog/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:3315/ysyx-blog/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇博客</title>
-      <link>http://localhost:3500/ysyx-blog/posts/hello/</link>
+      <link>http://localhost:3315/ysyx-blog/posts/hello/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3500/ysyx-blog/posts/hello/</guid>
+      <guid>http://localhost:3315/ysyx-blog/posts/hello/</guid>
       <description>&lt;p&gt;这是我的第一篇 Hugo 博客 🎉&lt;br&gt;
 我已经成功部署 GitHub Pages + Hugo！&lt;/p&gt;</description>
     </item>
